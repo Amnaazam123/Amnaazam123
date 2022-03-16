@@ -7,3 +7,4 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 - ⚡ I love to learn new things as well as to use social Media😉
 - 📫 You can contact with me via Email: amnaazam1042@gmail.com
 
+<img src="https://github-readme-stats.vercel.app/api?username=amnaazam123&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
