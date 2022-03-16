@@ -6,3 +6,6 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 👯 I’m looking to collaborate on web development projects.
 - ⚡ I love to learn new things as well as to use social Media😉
 - 📫 You can contact with me via Email: amnaazam1042@gmail.com
+
+
+![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
