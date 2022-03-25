@@ -7,7 +7,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 📫 You can contact with me via Email: **amnaazam1042@gmail.com**
 
 	<a  align="center">
-![](https://komarev.com/ghpvc/?username=Amnaazam123&color=black&label=Profile+Views)
+![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
 	</a>
 
 
