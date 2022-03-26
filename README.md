@@ -43,7 +43,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 </p>
 
 
-## Let's Connect
+## Let's Connect 😁
 <br/>
 <p align="center">
 	<a href="mailto:amnaazam1042@gmail.com">
