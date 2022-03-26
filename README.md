@@ -1,10 +1,10 @@
 ### Hi there 👋, I am AMNA AZAM.
 I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project.**
-- 🌱 I’m currently learning **python, java and C#.**
+- 🌱 I’m currently learning **python, java and C#.**😀
 - 👯 I’m looking to collaborate on **web development projects.**
 - ⚡ I love to learn new things as well as to use social Media😉
-- 📫 You can contact with me via Email: **amnaazam1042@gmail.com**
+- 📫 You can contact with me via Email: **amnaazam1042@gmail.com**😊
 
 	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
@@ -15,7 +15,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 
 <p align="center">
 	<a href="https://github.com/Amnaazam123">
-		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amnaazam123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&color=red"/>
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amnaazam123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
 		<img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Amnaazam123&layout=compact&langs_count=8&theme=algolia"/>
 	</a>
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amnaazam123&show_icons=true&locale=en&layout=demo&theme=algolia" />
