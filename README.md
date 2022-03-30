@@ -21,11 +21,11 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 	<img width="60%" src="https://github-readme-streak-stats.herokuapp.com/?user=Amnaazam123&show_icons=true&locale=en&layout=demo&theme=algolia" />
 </p>
 
-## Contribution Graph ☺
+## Contribution Graph 😀😀
 
 [![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amnaazam123&theme=react-dark)](https://github.com/Amnaazam123)
 
-## Tech Stack
+## Tech Stack 😀😀
 
 <p align="center">
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a>
@@ -43,7 +43,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 </p>
 
 
-## Let's Connect 😁
+## Let's Connect 😀😀
 <br/>
 <p align="center">
 	<a href="mailto:amnaazam1042@gmail.com">
