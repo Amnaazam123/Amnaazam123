@@ -64,4 +64,4 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 	<br>
 </p>
 
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=yellow&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!)](https://git.io/typing-svg)
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=red&size=26&duration=2500&center=true&vCenter=true&lines=Glad+to+see+you+here!;Thanks+For+Visiting!)](https://git.io/typing-svg)
