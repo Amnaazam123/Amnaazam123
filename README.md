@@ -5,14 +5,11 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 👯 I’m looking to collaborate on **web development projects.**
 - ⚡ I love to learn new things as well as to use social Media 😉
 - 📫 You can contact with me via Email: **amnaazam1042@gmail.com** 😊
-
-	<a  align="center">
+<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
-	</a>
-
+</a>
 
 ## GitHub Analytics
-
 <p align="center">
 	<a href="https://github.com/Amnaazam123">
 		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Amnaazam123&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -41,7 +38,6 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="c++" width="55" height="55"/>
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="55" height="55"/> </a>
 </p>
-
 
 ## Let's Connect
 <br/>
