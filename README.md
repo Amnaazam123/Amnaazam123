@@ -5,9 +5,12 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 👯 I’m looking to collaborate on **web development projects.**
 - ⚡ I love to learn new things as well as to use social Media 😉
 - 📫 You can contact with me via Email: **amnaazam1042@gmail.com** 😊
-<a  align="center">
+
+	<a  align="center">
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
+
 </a>
+
 
 ## GitHub Analytics
 <p align="center">
