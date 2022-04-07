@@ -55,7 +55,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 		<img alt="Amna Azam| LinkedIN"  src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
 	</a>
 	<a href="https://www.codechef.com/users/amna_123">
-		<img alt="Amna Azam| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
+		<img alt="Amna_Azam| CodeChef"  src="https://img.shields.io/badge/CodeChef-%23964B00.svg?style=for-the-badge&logo=CodeChef&logoColor=white" />
 	</a>
 	<a href="https://github.com/Amnaazam123">
 		<img alt="Amna Azam| GitHub"  src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
