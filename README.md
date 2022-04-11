@@ -29,7 +29,7 @@ I am Software Engineering Student at PUCIT, Lahore, old campus.
 
 ## Contribution Graph
 
-[![My GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Amnaazam123&theme=react-dark)](https://github.com/Amnaazam123)
+<a href="https://github.com/Amnaazam123"><img alt="Amna's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Amnaazam123&theme=react-dark&hide_border=true&area=true" /></a>
 
 ## Tech Stack
 
