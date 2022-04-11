@@ -1,4 +1,10 @@
-### Hi there 👋, I am AMNA AZAM.
+<h1 align="left">
+𝐇𝐞𝐥𝐥𝐨, &lt;Devs/&gt;! 
+    <a target="_blank">
+    <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
+  </a>
+	
+### I am AMNA AZAM.
 I am Software Engineering Student at PUCIT, Lahore, old campus.
 - 🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project**  
 - 🌱 I’m currently learning **python, java and C#** 
