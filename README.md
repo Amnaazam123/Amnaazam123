@@ -35,7 +35,7 @@
 👯 I’m looking to collaborate on **web development projects**<br>
 ⚡I love to learn new things as well as to use social Media <br>
 📫  You can contact with me via Email: **amnaazam1042@gmail.com**<br>
- ✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/amna-azam-5972b8217/)<br>
+😏 Reach out to me on [LinkedIn](https://www.linkedin.com/in/amna-azam-5972b8217/)<br>
 
 	
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
