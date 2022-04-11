@@ -1,21 +1,46 @@
-<h1 align="left">
-𝐇𝐞𝐥𝐥𝐨, &lt;Devs/&gt;! 
+<h1 align="center">
+𝐇𝐞𝐥𝐥𝐨, World ! 
     <a target="_blank">
     <img src="https://github.com/JayantGoel001/JayantGoel001/blob/master/GIF/Hi.gif" width="40px" />
   </a>
-	
-### I am AMNA AZAM.
-I am Software Engineering Student at PUCIT, Lahore, old campus.
-- 🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project**  
-- 🌱 I’m currently learning **python, java and C#** 
-- 👯 I’m looking to collaborate on **web development projects**
-- ⚡ I love to learn new things as well as to use social Media 
-- 📫 You can contact with me via Email: **amnaazam1042@gmail.com** 
+    
+<!--     <div align="center">
+       [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%239251F7&lines=Aspiring+Software+Engineer;Full+Stack+developer;Tech+Blogger)](https://git.io/typing-svg)
+</div>
+     -->
+    
+    
+ <h2 align="center">
 
-	<a  align="center">
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=firacode&color=%235BCDEC&size=26&duration=2500&center=true&vCenter=true&lines=This+is+Amna+Azam;Aspiring+Software+Engineer;Web+developer;Programmer;Open+source+contributor)](https://git.io/typing-svg)
+    </h2>
+    
+<p align="center">
+  <em>
+    This is Amna Azam, <b>studying BSSE</b> from <a href="https://pucit.edu.pk/"> <b>Punjab University College of Information and Technology</b></a>. <br>
+    A budding <b>Full-Stack Software Developer</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Programmer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
+    <b>grow</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Rocket.gif" width="18px">and 
+    <b>excel</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Medal.gif" width="20px">&nbsp.
+  </em> 
+  <br>
+<b><i>Learning while HOPING & HUSTLING!!</i></b> 
+</p>
+
+&nbsp;***More About ME...***
+
+
+🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project** <br>
+🌱 I’m currently learning **python, java and C#** <br>
+👯 I’m looking to collaborate on **web development projects**<br>
+⚡I love to learn new things as well as to use social Media <br>
+📫  You can contact with me via Email: **amnaazam1042@gmail.com**<br>
+ ✔ Reach out to me on [LinkedIn](https://www.linkedin.com/in/amna-azam-5972b8217/)<br>
+
+	
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
 
-</a>
+
 
 
 ## GitHub Analytics
