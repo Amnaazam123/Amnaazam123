@@ -18,7 +18,7 @@
 <p align="center">
   <em>
     This is Amna Azam, <b>studying BSSE</b> from <a href="https://pucit.edu.pk/"> <b>Punjab University College of Information and Technology</b></a>. <br>
-    A budding <b> Software Developer</b> and a <b>Programmer</b>&nbsp;&nbsp,<br>who is <b>obsessed</b>
+    A budding <b> Software Developer</b> and a <b>Programmer</b>,<br>who is <b>obsessed</b>
     with the idea of <b>improving</b> herself and wants a <b>platform</b> to 
     <b>grow</b> and 
     <b>excel</b>&nbsp.
