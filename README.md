@@ -40,7 +40,6 @@ Hello, World!
 ![](https://komarev.com/ghpvc/?username=Amnaazam123&color=blueviolet&label=Profile+Views)
 
 
-
 ## GitHub Analytics
 <p align="center">
 	<a href="https://github.com/Amnaazam123">
