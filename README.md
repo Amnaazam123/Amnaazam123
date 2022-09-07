@@ -26,7 +26,7 @@ Hello, World!
 <b><i>Learning while HOPING & HUSTLING!!</i></b> 
 </p>
 	
-&nbsp;***More About ME ...***
+&nbsp;***More About ME .....***
 
 
 🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project** <br>
