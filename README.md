@@ -29,7 +29,7 @@ Hello, World!!
 &nbsp;***More About ME ....***
 
 
-🔭 I’m currently working on **Computer Vision Project as well as Enterprise application development Project** <br>
+🔭 I’m currently working on **Problem Solving as well as MERN projects** <br>
 🌱 I’m currently learning **python, java and C#** <br>
 👯 I’m looking to collaborate on **web development projects**<br>
 ⚡I love to learn new things as well as to use social Media <br>
